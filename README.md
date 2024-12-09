@@ -3,7 +3,7 @@
 [![Photo by olia danilevich from Pexels](https://libg.s3.us-east-2.amazonaws.com/download/Real-Artists-Ship.jpg)](https://libg.s3.us-east-2.amazonaws.com/download/Real-Artists-Ship.jpg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashraf+Mahmoud" alt="Typing SVG" /></a>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=F71010&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Full+Stack+Desktop+app)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&width=435&lines=Junior+.net+Developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=F71010&center=true&vCenter=true&multiline=true&random=false&width=435&lines=-----------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 <!-- Developer Working at Night GIF from Dribbble: https://dribbble.com/shots/23267992-Developer-Working-at-Night -->
@@ -14,11 +14,11 @@
  About  Me :   
  
 
--🔭 I’m currently working on code generator
+-🔭 I’m currently working on EL-earning 
 
--🌱 I’m currently learning Asp.net core
+-🌱 I’m currently learning Docker-unit testing -Azure
 
--💬 Ask me about C#,SQL,C++,Git&GitHub,WinForms
+-💬 Ask me about C#, ASP.NET Core API, Entity Framework Core, LINQ, SQL, Dependency Injection, JWT Authentication, Identity, CORS, Fluent Validation, Background Jobs, Health Checks, Exception Handling, Email Services, Caching (Redis, Hybrid Cache), Logging, Pagination, Filtering, Rate Limiting, Options Pattern, Result Pattern, Unit of Work and Generic Repository Patterns, Stripe (for payment processing), Serilog, Object Mapping, and CORS with MediatR.
 
 -👨‍💻 All of my projects are available at https://github.com/ashrafmahmoud2
 
